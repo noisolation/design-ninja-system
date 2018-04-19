@@ -37,14 +37,15 @@ We have chosen to use [inVision](https://www.invisionapp.com/), which integrates
 
 Abstract is designed for designers to collaborate on .sketch files. As its main focus is on getting Sketch right – it does the job quite well.
 
-# TLDR;
+# TLDR
 
-You need to download:
+You need the following software and services:
 
-- [Sketch](https://www.sketchapp.com/).
+- [Sketch](https://www.sketchapp.com/)
 - [SketchPacks](https://sketchpacks.com/)
 - [Craft](https://www.invisionapp.com/craft)
 - [Abstract](https://www.goabstract.com/)
+- [inVision](https://www.invisionapp.com/)
 
 
 `The No Isolation Design Team`
