@@ -6,6 +6,11 @@ In this repository we have gathered the required software and concepts for runni
 
 > A design ninja system enables a design team to collaborate and perform unified design work. It unifies a set of tools and concepts to structure the underlying design process.
 
+What tools and concepts?
+
+- One design tool
+- One Version control
+- One prototype platform
 
 ## 🖥 Our Design Tool – Sketch
 
@@ -44,7 +49,7 @@ You need the following software and services:
 - [Sketch](https://www.sketchapp.com/)
 - [SketchPacks](https://sketchpacks.com/)
 - [Craft](https://www.invisionapp.com/craft)
-- [Abstract](https://www.goabstract.com/)
+- [Abstract](https://www.goabstract.com/) – Download the software.
 - [inVision](https://www.invisionapp.com/)
 
 
