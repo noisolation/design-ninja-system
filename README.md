@@ -1,4 +1,4 @@
-# 🕴 No Isolation's Design Ninja System
+# 🐱‍👤 No Isolation's Design Ninja System
 
 In this repository we have gathered the required software and concepts for running a design ninja system.
 
