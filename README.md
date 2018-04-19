@@ -1,6 +1,10 @@
-# Starter JetPack for Design Ninja Teams
+# No Isolation's Design Ninja System
 
-In this repository we have gathered the required software and concepts for running an efficient design system.
+In this repository we have gathered the required software and concepts for running a design ninja system.
+
+## Design Ninja System Definition
+
+A design ninja system enables a design team to collaborate and perform unified design work. It unifies a set of tools and concepts to structure the underlying design process. 
 
 
 ## Our Design Tool
