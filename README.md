@@ -1,6 +1,10 @@
-# Starter JetPack for Design Ninja Teams
+# No Isolation's Design Ninja System
 
-In this repository you'll find an overview of required software for running an efficient design-ninja-system.
+In this repository we have gathered the required software and concepts for running a design ninja system.
+
+## Design Ninja System Definition
+
+A design ninja system enables a design team to collaborate and perform unified design work. It unifies a set of tools and concepts to structure the underlying design process.
 
 
 ## Our Design Tool – Sketch
@@ -23,7 +27,7 @@ We're currently using [Abstract](https://www.goabstract.com/).
 
 Abstract is tailored for designers to collaborate on `.sketch` files. As the main focus for the Abstract team is getting Sketch version control done right – it does the job quite well.
 
-Say goodbye to overwriting your co-designers changes. And hello to being 
+Say goodbye to overwriting your co-designers changes. And hello to being
 
 ## Our Prototype Platform – inVision
 
