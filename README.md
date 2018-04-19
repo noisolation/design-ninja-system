@@ -42,6 +42,14 @@ We have chosen to use [inVision](https://www.invisionapp.com/), which integrates
 
 Abstract is designed for designers to collaborate on .sketch files. As its main focus is on getting Sketch right – it does the job quite well.
 
+## The Starter Pack
+
+The Starter Pack contains:
+- `ni.sketch` / Design System Baseline
+- `ni.sketchpack` / Sketch Plugins
+
+https://github.com/noisolation/design-ninja-system/archive/master.zip
+
 # 😹 TLDR
 
 You need the following software and services:
