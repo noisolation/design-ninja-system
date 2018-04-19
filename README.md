@@ -36,3 +36,15 @@ For the design team to thrive in a collaborative environment, we need to make su
 We have chosen to use [inVision](https://www.invisionapp.com/), which integrates well with Sketch. It enables us to build well with both on-site and remote user testing.
 
 Abstract is designed for designers to collaborate on .sketch files. As its main focus is on getting Sketch right – it does the job quite well.
+
+# TLDR;
+
+You need to download:
+
+- [Sketch](https://www.sketchapp.com/).
+- [SketchPacks](https://sketchpacks.com/)
+- [Craft](https://www.invisionapp.com/craft)
+- [Abstract](https://www.goabstract.com/)
+
+
+`The No Isolation Design Team`
