@@ -2,9 +2,9 @@
 
 In this repository we have gathered the required software and concepts for running a design ninja system.
 
-## Design Ninja System Definition
+## What is a Design Ninja System?
 
-A design ninja system enables a design team to collaborate and perform unified design work. It unifies a set of tools and concepts to structure the underlying design process.
+> A design ninja system enables a design team to collaborate and perform unified design work. It unifies a set of tools and concepts to structure the underlying design process.
 
 
 ## 🖥 Our Design Tool – Sketch
