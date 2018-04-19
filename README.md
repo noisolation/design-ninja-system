@@ -1,4 +1,4 @@
-# No Isolation's Design Ninja System
+# 🕴 No Isolation's Design Ninja System
 
 In this repository we have gathered the required software and concepts for running a design ninja system.
 
@@ -7,11 +7,11 @@ In this repository we have gathered the required software and concepts for runni
 A design ninja system enables a design team to collaborate and perform unified design work. It unifies a set of tools and concepts to structure the underlying design process.
 
 
-## Our Design Tool – Sketch
+## 🖥 Our Design Tool – Sketch
 
 Choose one design tool in your team. It must be fit for fight for the task at hand. If your team of designers are supposed to be able to collaborate, this is necessary. It enables you to speak the same 'language' for UI. We choose [Sketch](https://www.sketchapp.com/).
 
-### Sketch Plugins
+### 🔌 Sketch Plugins
 Sketch has a huge community which delivers high quality plugins for Sketch. To synchronise our team with the latest plugins for efficiency, we're using the [SketchPacks](https://sketchpacks.com/) plugin.
 
 This allows us to distribute a single file to keep the design team in sync in regards to plugins.
@@ -19,7 +19,7 @@ This allows us to distribute a single file to keep the design team in sync in re
 #### Craft
 Unfortunately, not all plugins are represented in the SketchPacks library. One of those is the [Craft](https://www.invisionapp.com/craft) plugin from inVision. This particular one has its own Give it some special love by installing it.
 
-## Our Version Control – Abstract
+## 👬 Our Version Control – Abstract
 
 Doing version control with a designer team can be quite a laborious task without a well-designed tool.
 
@@ -29,7 +29,7 @@ Abstract is tailored for designers to collaborate on `.sketch` files. As the mai
 
 Say goodbye to overwriting your co-designers changes. And hello to being
 
-## Our Prototype Platform – inVision
+## 📱 Our Prototype Platform – inVision
 
 For the design team to thrive in a collaborative environment, we need to make sure that we have one place to gather all our prototypes and do user testing.
 
@@ -37,7 +37,7 @@ We have chosen to use [inVision](https://www.invisionapp.com/), which integrates
 
 Abstract is designed for designers to collaborate on .sketch files. As its main focus is on getting Sketch right – it does the job quite well.
 
-# TLDR
+# 😹 TLDR
 
 You need the following software and services:
 
@@ -48,4 +48,4 @@ You need the following software and services:
 - [inVision](https://www.invisionapp.com/)
 
 
-`The No Isolation Design Team`
+With 💌 from the `No Isolation Design Team`
