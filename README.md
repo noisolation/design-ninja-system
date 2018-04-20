@@ -62,15 +62,4 @@ The Starter Pack contains:
 
 https://github.com/noisolation/design-ninja-system/archive/master.zip
 
-# 😹 TLDR
-
-You need the following software and services:
-
-- [Sketch](https://www.sketchapp.com/)
-- [SketchPacks](https://sketchpacks.com/)
-- [Craft](https://www.invisionapp.com/craft)
-- [Abstract](https://www.goabstract.com/) – Download the software.
-- [inVision](https://www.invisionapp.com/)
-
-
 With 💌 from the `No Isolation Design Team`
