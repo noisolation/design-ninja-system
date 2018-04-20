@@ -1,16 +1,18 @@
-# 🐱‍👤 No Isolation's Design Ninja System
+# 🐱‍👤 No Isolation's Design Ninja System Workshop
 
 In this repository we have gathered the required software and concepts for running a design ninja system.
 
 # 😹 TLDR
 
-You need the following software and services:
+You need the following software, services, and resources:
 
 - [Sketch](https://www.sketchapp.com/)
 - [SketchPacks](https://sketchpacks.com/)
 - [Craft](https://www.invisionapp.com/craft)
 - [Abstract](https://www.goabstract.com/)
 - [inVision](https://www.invisionapp.com/)
+
+- [FontAwesome](https://use.fontawesome.com/releases/v5.0.10/fontawesome-free-5.0.10.zip) (Installation guide on [FontAwesome for Desktop](https://fontawesome.com/how-to-use/use-on-desktop))
 
 ## What is a Design Ninja System?
 
@@ -32,7 +34,7 @@ Sketch has a huge community which delivers high quality plugins for Sketch. To s
 This allows us to distribute a single file to keep the design team in sync in regards to plugins.
 
 #### Craft
-Unfortunately, not all plugins are represented in the SketchPacks library. One of those is the [Craft](https://www.invisionapp.com/craft) plugin from inVision. This particular one has its own Give it some special love by installing it.
+Unfortunately, not all plugins are represented in the SketchPacks library. One of those is the [Craft](https://www.invisionapp.com/craft) plugin from inVision. This particular one has its own. Give it some special love by installing it.
 
 ## 👬 Our Version Control – Abstract
 
@@ -55,20 +57,9 @@ Abstract is designed for designers to collaborate on .sketch files. As its main 
 ## The Starter Pack
 
 The Starter Pack contains:
-- `ni.sketch` / Design System Baseline
-- `ni.sketchpack` / Sketch Plugins
+- `designsystem.sketch` / Design System Baseline, this example is developed specifically for [YggdrasilKonferansen](https://yggdrasilkonferansen.no/workshop/designninjasystem-teamet-pa-1-2-3/)
+- `library.sketchpack` / Sketch Plugins
 
 https://github.com/noisolation/design-ninja-system/archive/master.zip
-
-# 😹 TLDR
-
-You need the following software and services:
-
-- [Sketch](https://www.sketchapp.com/)
-- [SketchPacks](https://sketchpacks.com/)
-- [Craft](https://www.invisionapp.com/craft)
-- [Abstract](https://www.goabstract.com/) – Download the software.
-- [inVision](https://www.invisionapp.com/)
-
 
 With 💌 from the `No Isolation Design Team`
