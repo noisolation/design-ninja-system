@@ -1,10 +1,10 @@
-# 🐱‍👤 No Isolation's Design Ninja System
+# 🐱‍👤 No Isolation's Design Ninja System Workshop
 
 In this repository we have gathered the required software and concepts for running a design ninja system.
 
 # 😹 TLDR
 
-You need the following software, resources, and services:
+You need the following software, services, and resources:
 
 - [Sketch](https://www.sketchapp.com/)
 - [SketchPacks](https://sketchpacks.com/)
