@@ -4,13 +4,15 @@ In this repository we have gathered the required software and concepts for runni
 
 # 😹 TLDR
 
-You need the following software and services:
+You need the following software, resources, and services:
 
 - [Sketch](https://www.sketchapp.com/)
 - [SketchPacks](https://sketchpacks.com/)
 - [Craft](https://www.invisionapp.com/craft)
 - [Abstract](https://www.goabstract.com/)
 - [inVision](https://www.invisionapp.com/)
+
+- [FontAwesome](https://fontawesome.com/)
 
 ## What is a Design Ninja System?
 
@@ -55,8 +57,8 @@ Abstract is designed for designers to collaborate on .sketch files. As its main 
 ## The Starter Pack
 
 The Starter Pack contains:
-- `ni.sketch` / Design System Baseline
-- `ni.sketchpack` / Sketch Plugins
+- `designsystem.sketch` / Design System Baseline, this example is developed specifically for [YggdrasilKonferansen](https://yggdrasilkonferansen.no/workshop/designninjasystem-teamet-pa-1-2-3/)
+- `library.sketchpack` / Sketch Plugins
 
 https://github.com/noisolation/design-ninja-system/archive/master.zip
 
