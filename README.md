@@ -32,7 +32,7 @@ Sketch has a huge community which delivers high quality plugins for Sketch. To s
 This allows us to distribute a single file to keep the design team in sync in regards to plugins.
 
 #### Craft
-Unfortunately, not all plugins are represented in the SketchPacks library. One of those is the [Craft](https://www.invisionapp.com/craft) plugin from inVision. This particular one has its own Give it some special love by installing it.
+Unfortunately, not all plugins are represented in the SketchPacks library. One of those is the [Craft](https://www.invisionapp.com/craft) plugin from inVision. This particular one has its own. Give it some special love by installing it.
 
 ## 👬 Our Version Control – Abstract
 
