@@ -12,7 +12,7 @@ You need the following software, services, and resources:
 - [Abstract](https://www.goabstract.com/)
 - [inVision](https://www.invisionapp.com/)
 
-- Download [FontAwesome](https://use.fontawesome.com/releases/v5.0.10/fontawesome-free-5.0.10.zip) and follow the guide on [FontAwesome for Desktop](https://fontawesome.com/how-to-use/use-on-desktop)
+- [FontAwesome](https://use.fontawesome.com/releases/v5.0.10/fontawesome-free-5.0.10.zip) (Installation guide on [FontAwesome for Desktop](https://fontawesome.com/how-to-use/use-on-desktop))
 
 ## What is a Design Ninja System?
 
