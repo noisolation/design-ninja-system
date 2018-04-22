@@ -14,6 +14,9 @@
     },
     "com.taptap.ninja.rename-it": {
       "version": ">=3.7.3"
+    },
+    "com.zeroheight.library-symbol-replacer": {
+      "version": ">=1.0.15"
     }
   }
 }
