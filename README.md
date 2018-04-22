@@ -58,6 +58,7 @@ Abstract is designed for designers to collaborate on .sketch files. As its main 
 
 The Starter Pack contains:
 - `designsystem.sketch` / Design System Baseline, this example is developed specifically for [YggdrasilKonferansen](https://yggdrasilkonferansen.no/workshop/designninjasystem-teamet-pa-1-2-3/)
+- `yggdate.sketch` / Example Design for an Yggdrasil Dating App, this example is developed specifically for [YggdrasilKonferansen](https://yggdrasilkonferansen.no/workshop/designninjasystem-teamet-pa-1-2-3/)
 - `library.sketchpack` / Sketch Plugins
 
 https://github.com/noisolation/design-ninja-system/archive/master.zip
