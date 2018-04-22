@@ -6,6 +6,7 @@ In this repository we have gathered the required software and concepts for runni
 
 You need the following software, services, and resources:
 
+- [This Resource Pack](https://github.com/noisolation/design-ninja-system/archive/master.zip)
 - [Sketch](https://www.sketchapp.com/)
 - [SketchPacks](https://sketchpacks.com/)
 - [Craft](https://www.invisionapp.com/craft)
@@ -58,8 +59,7 @@ Abstract is designed for designers to collaborate on .sketch files. As its main 
 
 The Starter Pack contains:
 - `designsystem.sketch` / Design System Baseline, this example is developed specifically for [YggdrasilKonferansen](https://yggdrasilkonferansen.no/workshop/designninjasystem-teamet-pa-1-2-3/)
-- `library.sketchpack` / Sketch Plugins
-
-https://github.com/noisolation/design-ninja-system/archive/master.zip
+- `yggdate.sketch` / Example Design for an Yggdrasil Dating App, this example is developed specifically for [YggdrasilKonferansen](https://yggdrasilkonferansen.no/workshop/designninjasystem-teamet-pa-1-2-3/)
+- `plugins.sketchpack` / Sketch Plugins
 
 With 💌 from the `No Isolation Design Team`
